@@ -4,6 +4,8 @@ One definition of an embedded system is a computer and associated devices that p
 
 The following are one way of looking at embedded systems programming. Of course, there will be overlap between the types. Embedded systems can be microcontrollers on an SBC or large racks of CPU's and device cards. Programmers can have a range of skills that suit them to a particular role.
 
+This description applies mostly to computer science, computer engineering or EE with CS. Its about programming, not hardware.
+
 ## Bare Boarder
 
 The target is a brand-new bare board fresh from the fab. It’s the first one and is a new design. The job is to bring it up to the point a boot monitor works, and all onboard devices are tested and working at a basic level. The boot monitor can download and run basic single threaded test programs. It isn't known if everything on the board works or there are defects in the design or fab.
